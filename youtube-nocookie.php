@@ -1,10 +1,10 @@
 <?php
 
 /*
-  Plugin Name: YouTube Nocookie
+  Plugin Name: YouTube-Nocookie
   Plugin URI: https://github.com/nowherecoding/youtube-nocookie/
   Description: Embed YouTube videos in compliance with privacy
-  Author: Sergej Theiss
+  Author: NowhereCoding
   Author URI: https://github.com/nowherecoding/
   Version: 1.0.0
   License: http://www.gnu.org/licenses/gpl-2.0.html
@@ -34,15 +34,15 @@
  *
  * @return string
  */
-function youtube_nocookie($source, $url = null, $attr, $post_ID)
+function youtube_nocookie( $source, $url = null, $attr, $post_ID )
 {
 
     // Search for youtu to return true for youtube.com and youtu.be URLs
-    if (strpos($url, 'youtu')) {
-        $output = preg_replace('/youtube\.com/s', 'youtube-nocookie.com', $source);
+    if ( strpos( $url, 'youtu' ) ) {
+        $output = preg_replace( '/youtube\.com/s', 'youtube-nocookie.com', $source );
     }
 
     return $output;
 }
 
-add_filter('embed_oembed_html', 'youtube_nocookie', 10, 4);
+add_filter( 'embed_oembed_html', 'youtube_nocookie', 10, 4 );

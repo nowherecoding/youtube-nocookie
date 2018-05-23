@@ -1,11 +1,11 @@
 ## YOU SHOULD COPY & PASTE THIS TEXT INTO YOUR PRIVACY POLICY ##
 
 
-<strong>Using YouTube with advanced privacy mode</strong>
+<strong>Using YouTube with privacy-enhanced mode enabled</strong>
 
 On our website we use components (videos) from YouTube. YouTube's operating company is YouTube, LLC, 901 Cherry Ave., San Bruno, CA 94066, USA. YouTube, LLC is a subsidiary of Google Inc., 1600 Amphitheatre Pkwy, Mountain View, CA 94043-1351, USA. In doing so, we use the "enhanced privacy mode" option provided by YouTube. Each time a user visits any of the pages on this website that contains an embedded video, a connection to the YouTube servers will be established. The user's Internet browser is automatically prompted by the respective YouTube component to download a representation of the corresponding YouTube component from YouTube.
 
-According to information provided by YouTube, in the extended data protection mode, data is only transmitted to the YouTube server when the user is watching the video. If the user is logged in to YouTube at the same time, this information will be associated with his membership account on YouTube. The user can prevent this by logging out of his account before visiting our website.
+According to information provided by YouTube, in the enhanced privacy mode, data is only transmitted to the YouTube server when the user is watching the video. If the user is logged in to YouTube at the same time, this information will be associated with his membership account on YouTube. The user can prevent this by logging out of his account before visiting our website.
 
 Additional information about YouTube's privacy is provided by Google at the following link: <a href="https://policies.google.com/privacy?hl=en" target="_blank" rel="nofollow">https://policies.google.com/privacy?hl=en</a>
 
@@ -14,9 +14,9 @@ Additional information about YouTube's privacy is provided by Google at the foll
 ## DU SOLLTEST DIESEN TEXT KOPIEREN UND IN DEINE DATENSCHUTZERKLÄRUNG EINFÜGEN ##
 
 
-<strong>Einsatz von YouTube mit erweitertem Datenschutzmodus</strong>
+<strong>Verwenden von YouTube mit erweitertem Datenschutzmodus</strong>
 
-Auf unserer Webseite setzen wir Komponenten (Videos) von YouTube ein. Betreibergesellschaft von YouTube ist die YouTube, LLC, 901 Cherry Ave., San Bruno, CA 94066, USA. Die YouTube, LLC ist einer Tochtergesellschaft der Google Inc., 1600 Amphitheatre Pkwy, Mountain View, CA 94043-1351, USA. Hierbei nutzen wir die von YouTube zur Verfügung gestellte Option "erweiterter Datenschutzmodus". Durch jeden Aufruf einer der Einzelseiten dieser Internetseite, die über ein eingebettetes Video verfügt, wird eine Verbindung zu den YouTube-Servern hergestellt. Dabei wird der Internetbrowser des Nutzers automatisch durch die jeweilige YouTube-Komponente veranlasst, eine Darstellung der entsprechenden YouTube-Komponente von YouTube herunterzuladen.
+Auf unserer Webseite setzen wir Komponenten (Videos) von YouTube ein. Betreibergesellschaft von YouTube ist die YouTube, LLC, 901 Cherry Ave., San Bruno, CA 94066, USA. Die YouTube, LLC ist eine Tochtergesellschaft der Google Inc., 1600 Amphitheatre Pkwy, Mountain View, CA 94043-1351, USA. Hierbei nutzen wir die von YouTube zur Verfügung gestellte Option "erweiterter Datenschutzmodus". Durch jeden Aufruf einer der Einzelseiten dieser Internetseite, die über ein eingebettetes Video verfügt, wird eine Verbindung zu den YouTube-Servern hergestellt. Dabei wird der Internetbrowser des Nutzers automatisch durch die jeweilige YouTube-Komponente veranlasst, eine Darstellung der entsprechenden YouTube-Komponente von YouTube herunterzuladen.
 
 Laut den Angaben von YouTube werden im erweiterten Datenschutzmodus nur Daten an den YouTube-Server übermittelt, insbesondere welche unserer Internetseiten ein Nutzer besucht hat, wenn er das Video anschaut. Ist der Nutzer gleichzeitig bei YouTube eingeloggt, werden diese Informationen seinem Mitgliedskonto bei YouTube zugeordnet. Dies kann der Nutzer verhindern, indem er sich vor dem Besuch unserer Webseite von seinem Konto abmeldet.
 
